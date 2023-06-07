@@ -18,6 +18,6 @@ public class Espresso extends Kahve{
 
     @Override
     public String ikramEkle() {
-        return "Badem Şekeri";
+        return "Badem Şekerli cikolata";
     }
 }
