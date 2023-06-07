@@ -11,7 +11,7 @@ public class FiltreKahve extends Kahve{
                 fiyat = 50;
                 break;
             case "büyük boy":
-                fiyat = 60;
+                fiyat = 80;
                 break;
         }
     }
