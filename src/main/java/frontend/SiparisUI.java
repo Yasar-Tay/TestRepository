@@ -29,7 +29,7 @@ public class SiparisUI {
 
         boolean flag = true;
         do {
-            System.out.println("Hangi Kahveyi istersiniz? \n1.Türk kahvesi \n2.Filtre Kahve \n3.Espresso\n4.Cappuccino\n-----------");
+            System.out.println("Hangi Kahveyi istersiniz? \n1.Türk kahvesi \n2.Filtre Kahve \n3.Espresso\n4.Cappuccino\n5.White Chocolate Mocca-----------");
             System.out.print("Seçiminiz: ");
             hangiKahve = scanner.nextLine().toLowerCase().trim();
 
