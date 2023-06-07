@@ -19,7 +19,7 @@ public class TurkKahvesi extends Kahve {
 
     @Override
     public String ikramEkle() {
-        return "Findikli Lokum";
+        return "Fındıklı Narlı Lokum";
     }
 
 }
