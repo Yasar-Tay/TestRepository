@@ -47,7 +47,7 @@ public class SiparisUI {
                     kahve = new Espresso();
                     flag = false;
                     break;
-                case "cappuccino":
+                case "moccachino":
                     kahve = new Cappuccino();
                     flag = false;
                     break;
