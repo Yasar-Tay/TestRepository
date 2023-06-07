@@ -13,6 +13,9 @@ public class Cappuccino extends Kahve{
             case "büyük boy":
                 fiyat = 200;
                 break;
+            case "battal boy":
+                fiyat = 400;
+                break;
         }
     }
 
